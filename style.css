@@ -481,7 +481,6 @@ svg {
 .card:hover {
   background-color: rgba(0, 0, 0, 0.8);
   border-radius: 0.8125rem;
-  padding: 0.5rem;
 }
 /* ----------------------------------------------card_pegatina------------------------------------------------------ */
 .card_pegatina {
